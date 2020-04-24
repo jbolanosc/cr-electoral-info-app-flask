@@ -1,0 +1,50 @@
+100339724,109007,1,2023-11-19,01020,JOSE                          ,DELGADO                   ,CORRALES                  
+100842598,108001,2,2026-10-24,00854,CARMEN                        ,CORRALES                  ,MORALES                   
+100842638,301027,1,2020-02-24,03005,RAFAEL                        ,AGUERO                    ,MORA                      
+100920539,108013,2,2028-02-07,00895,MARTA                         ,VILLALTA                  ,CASCANTE                  
+100964116,104022,1,2028-02-07,00695,MANUEL                        ,DELGADO                   ,GUZMAN                    
+100986470,205012,2,2021-02-10,02340,MARIA                         ,SALAS                     ,CHAVARRIA                 
+100996791,108011,2,2030-02-04,00945,ISABEL                        ,VEGA                      ,QUIROS                    
+101007676,118005,2,2019-07-22,01473,FELICIA                       ,VEGA                      ,VEGA                      
+101019387,101026,2,2023-04-16,00191,CLAUDIA MANUELA               ,ESPINOZA                  ,FONSECA                   
+101020267,101005,2,2030-02-04,00154,MARINA                        ,HERRERA                   ,OREAMUNO                  
+101020428,119073,1,2028-02-07,01616,JOSE                          ,MENA                      ,MORA                      
+101030889,106001,2,2028-02-07,00738,MARINA                        ,ASTUA                     ,CHACON                    
+101031136,107019,1,2030-02-04,00823,MANUEL                        ,JIMENEZ                   ,MEZA                      
+101031563,110004,2,2026-04-13,01065,MARINA                        ,QUIROS                    ,MORA                      
+101042358,103025,2,2021-10-27,00565,DELFINA                       ,SEGURA                    ,JIMENEZ                   
+101053316,104015,2,2028-02-07,00685,LUCILA                        ,PORRAS                    ,AGUERO                    
+101064216,301022,1,2022-05-08,03056,BAUDILIO                      ,MORALES                   ,CORRALES                  
+101075091,101023,2,2023-03-21,00072,ODILI                         ,SALAZAR                   ,MONGE                     
+101075138,119119,2,2030-02-04,01641,OFELIA                        ,CASTILLO                  ,ROJAS                     
+101075424,115001,2,2023-08-23,01370,MARIA                         ,MELENDEZ                  ,VARGAS                    
+101085755,607002,1,2020-01-28,05033,PANFILO                       ,SOLIS                     ,BADILLA                   
+101085966,112009,2,2026-08-10,01208,LUISA                         ,ABARCA                    ,CAMPOS                    
+101086402,104013,2,2028-02-21,00680,JOSEFINA                      ,VEGA                      ,GONZALEZ                  
+101086526,101012,2,2028-02-07,00016,DINORA                        ,OBANDO                    ,GARCIA                    
+101086579,119003,1,2022-07-05,01720,ABDENAGO                      ,MATA                      ,VARGAS                    
+101096720,101021,2,2028-02-07,00057,MARIA CRISTINA                ,DELGADO                   ,DELGADO                   
+101096784,104011,2,2022-09-26,00672,ARCELIA                       ,CHAVARRIA                 ,MARIN                     
+101096896,104026,2,2024-08-20,00692,ROSALIA                       ,FERNANDEZ                 ,CHACON                    
+101097283,409003,2,2028-10-24,03998,ZENEIDA                       ,MORA                      ,MORA                      
+101118894,108002,2,2028-02-23,00875,HERMINIA                      ,MORA                      ,PERAZA                    
+101119051,101002,2,2029-01-08,00091,MARGARITA                     ,VARGAS                    ,VARGAS                    
+101119140,114003,2,2030-02-04,01347,DORA                          ,DURAN                     ,CHINCHILLA                
+101119313,102001,2,2029-01-14,00353,GLADYS                        ,STAHL                     ,NAVARRO                   
+101120354,115001,2,2028-02-07,01371,THAIS                         ,PERALTA                   ,CARRANZA                  
+101120440,112028,1,2027-02-27,01218,ERLINDO                       ,FERNANDEZ                 ,FALLAS                    
+101130651,201066,2,2023-01-21,01814,MARIA LIDIA                   ,HERRERA                   ,ANGULO                    
+101131245,110008,1,2024-03-25,01072,CELERINO                      ,MONTES                    ,MORA                      
+101131470,109001,1,2028-10-23,00975,FABIO                         ,ACU�A                     ,MONGE                     
+101141576,101009,2,2026-10-03,00132,CABIRIA                       ,MORGAN                    ,DURAN                     
+101141655,103033,2,2030-02-04,00493,TRINIDAD                      ,VINDAS                    ,PEREZ                     
+101142376,101026,2,2022-09-19,00198,FLORA                         ,MENDEZ                    ,CHINCHILLA                
+101152957,305014,1,2028-02-07,03344,VICTOR                        ,RIVERA                    ,CALVO                     
+101152989,607029,1,2030-02-04,05026,JUAN                          ,BERMUDEZ                  ,BERMUDEZ                  
+101153046,101013,2,2030-02-04,00054,MARTA                         ,RECIO                     ,RECIO                     
+101153115,702004,1,2026-02-02,05432,RECAREDO                      ,MURILLO                   ,GARITA                    
+101153260,119116,2,2029-01-29,01589,EVANGELINA                    ,ROJAS                     ,URE�A                     
+101153436,201026,2,2025-01-05,02060,ZOILA                         ,SANDI                     ,CHAVARRIA                 
+101153481,113002,2,2026-02-02,01271,LUISA                         ,SOLANO                    ,BRENES                    
+101163542,101033,2,2021-02-01,00124,OLGA ROMILIA                  ,VARGAS                    ,BLANCO                    
+101163671,101002,2,2027-03-06,00079,MARIA CRISTINA                ,FALLAS                    ,MORA                      
